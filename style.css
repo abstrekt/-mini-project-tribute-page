@@ -7,6 +7,7 @@ body {
   font-family: "Caveat", cursive;
   font-size: 1.3rem;
 }
+
 @media(max-width: 600px){
   body{
     background-size: 60px 42px;  
